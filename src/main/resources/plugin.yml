@@ -1,0 +1,11 @@
+name: KDirecto
+version: '${project.version}'
+main: org.kasimantonyo.kdirecto.KDirecto
+author: Kasi777
+description: Permite a los creadores de contenido enviar sus directos!
+
+commands:
+  directo:
+    description: /directo
+  kdirecto:
+    description: Comando principal

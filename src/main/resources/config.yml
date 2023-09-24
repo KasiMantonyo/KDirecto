@@ -1,0 +1,14 @@
+# Anuncio de /directo y más opciones :D
+Message:
+  - "&f&l+--------------------------------+"
+    - "&f  El &njugador&r&f &e%player%&r&f &fEstá en directo!"
+    - "&f  Link: &e%link%"
+    - "&f&l+--------------------------------+"
+cooldown: 60
+Sound: NOTE_PLING
+# Otros mensajes
+InvalidLink: "&cLink inválido"
+ConfigMsg: "&aConfig recargada!"
+NoPerms: "&cNo tienes permiso para ejecutar este comando!"
+CooldownMsg: "&cDebes esperar %cooldown% segundo(s)" # en segundos
+CorrectUse: "Uso correcto: /directo (link)"
